@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: af80066a520ec894ab43a389d67e205d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: leo shutter island_4
+    21300002: leo shutter island_5
+    21300004: leo shutter island_12
+    21300006: leo shutter island_14
+    21300008: leo shutter island_15
+    21300010: leo shutter island_7
+    21300012: leo shutter island_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: leo shutter island_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 59
+        width: 188
+        height: 258
+      alignment: 9
+      pivot: {x: .517577231, y: .768965006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leo shutter island_5
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 237
+        width: 124
+        height: 256
+      alignment: 9
+      pivot: {x: .620489776, y: .840445399}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leo shutter island_12
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 71
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leo shutter island_14
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 352
+        width: 431
+        height: 533
+      alignment: 9
+      pivot: {x: .505777419, y: .322468191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leo shutter island_15
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 710
+        width: 515
+        height: 635
+      alignment: 9
+      pivot: {x: .475824147, y: .14707002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leo shutter island_7
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 59
+        width: 283
+        height: 103
+      alignment: 9
+      pivot: {x: .258359015, y: .386508316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leo shutter island_6
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1374
+        width: 546
+        height: 649
+      alignment: 9
+      pivot: {x: .44226253, y: .213412568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

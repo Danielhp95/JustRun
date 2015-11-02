@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: 048fd5abd98457948967dcb58740ca5c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CarpetaMuyLarga
+    21300002: "CarpetaPeque\xF1a"
+    21300004: ParquetaMediana
+    21300006: "CarpetaMuyPeque\xF1a"
+    21300008: plataformas_16
+    21300010: plataformas_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CarpetaMuyLarga
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 709
+        width: 1233
+        height: 245
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "CarpetaPeque\xF1a"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 721
+        height: 376
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ParquetaMediana
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 316
+        width: 925
+        height: 311
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "CarpetaMuyPeque\xF1a"
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 63
+        width: 575
+        height: 245
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataformas_16
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 17
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataformas_17
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 0
+        width: 118
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

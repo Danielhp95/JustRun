@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: ab3ceb617a852b845847d895b2f5f093
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Resplandor
+    21300002: Hal9000
+    21300004: Seven
+    21300006: Padrino
+    21300008: Vader
+    21300010: Forrest
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Resplandor
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 557
+        width: 532
+        height: 404
+      alignment: 9
+      pivot: {x: .223626614, y: .263017714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hal9000
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 545
+        width: 456
+        height: 452
+      alignment: 9
+      pivot: {x: .488752276, y: .760987699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Seven
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 603
+        width: 518
+        height: 333
+      alignment: 9
+      pivot: {x: .503300369, y: .166282862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Padrino
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 96
+        width: 525
+        height: 355
+      alignment: 9
+      pivot: {x: .307866901, y: .3651537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vader
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 65
+        width: 418
+        height: 412
+      alignment: 9
+      pivot: {x: .49590978, y: .188775733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Forrest
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 94
+        width: 490
+        height: 366
+      alignment: 9
+      pivot: {x: .740747809, y: .196372062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

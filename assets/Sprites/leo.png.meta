@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 5fe18c2b0edfae640929f8eb3aa6a7a0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cabeza
+    21300002: BrazoDerecho
+    21300004: leo_2
+    21300006: Hombro
+    21300008: Cuerpo
+    21300010: BrazoIzquierdo
+    21300012: Muslo
+    21300014: PiernaAbajo
+    21300016: leo_8
+    21300018: pie
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Cabeza
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1285
+        width: 556
+        height: 728
+      alignment: 9
+      pivot: {x: .325523287, y: .176382542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrazoDerecho
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1614
+        width: 192
+        height: 371
+      alignment: 9
+      pivot: {x: .370077461, y: .843659163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leo_2
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1277
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hombro
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1211
+        width: 192
+        height: 372
+      alignment: 9
+      pivot: {x: .514436066, y: .857637167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cuerpo
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 521
+        width: 577
+        height: 742
+      alignment: 9
+      pivot: {x: .341480702, y: .331905633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrazoIzquierdo
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 785
+        width: 182
+        height: 374
+      alignment: 9
+      pivot: {x: .37816745, y: .818669796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muslo
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 65
+        width: 275
+        height: 376
+      alignment: 9
+      pivot: {x: .449605823, y: .868575633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PiernaAbajo
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 337
+        width: 176
+        height: 372
+      alignment: 9
+      pivot: {x: .531496942, y: .857636809}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leo_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 91
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pie
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 66
+        width: 370
+        height: 187
+      alignment: 9
+      pivot: {x: .245304257, y: .692683756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
